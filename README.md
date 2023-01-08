@@ -1,5 +1,5 @@
-#DIO Bootcamps
-###TQI Fullstack Developer Bootcamp
+# DIO Bootcamps
+### TQI Fullstack Developer Bootcamp
 <details
   [First Project](https://github.com/rnogara/DIO/tree/projeto-um-github/first-project-github)
   [Second Project](https://github.com/rnogara/DIO/tree/projeto-um-github/second-project-css-transitions)
