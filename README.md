@@ -1,6 +1,7 @@
 # DIO Bootcamps
 ### TQI Fullstack Developer Bootcamp
-<details
+<details>
+<summary><strong>Projects</strong></summary><br />
   [First Project](https://github.com/rnogara/DIO/tree/projeto-um-github/first-project-github)
   [Second Project](https://github.com/rnogara/DIO/tree/projeto-um-github/second-project-css-transitions)
   [Third Project](https://github.com/rnogara/DIO/tree/projeto-um-github/third-project-javascript-matching-game)
